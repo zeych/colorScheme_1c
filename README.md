@@ -1,4 +1,7 @@
 # colorScheme_1c
+
+Путь: Сервис - Параметры - Модули - Редактирование - Выделение цветом синтаксических констукций - ...
+
 ## Светлая цветовая схема
 Brightness contrast colorschemes:  
 Ключевые слова: D24C15  
@@ -13,7 +16,6 @@ Brightness contrast colorschemes:
 Фон: FFFBF0  
 
 ![Светлая тема](https://infostart.ru/upload/iblock/1b9/BrightnessContrastColorSchemes.png)
-
 ## Темная цветовая схема (под Visual Studio Code)
 Low contrast colorschemes:  
 Ключевые слова: D24C15  
@@ -42,3 +44,5 @@ Default colorschemes:
 Препроцессор: 963200  
 Прочее: 000000  
 Фон: FFFFFF  
+
+
