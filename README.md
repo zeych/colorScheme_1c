@@ -31,7 +31,7 @@ Low contrast colorschemes:
 
 ![Темная цветовая схема (под Visual Studio Code)](https://infostart.ru/upload/iblock/214/LowContrastColorSchemes.png)
 
-## Стандартные цветовые 
+## Стандартные цветовые схемы
 
 Default colorschemes:  
 Ключевые слова: FF0000  
