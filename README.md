@@ -1,5 +1,5 @@
 # colorScheme_1c
-// Светлая цветовая схема
+## Светлая цветовая схема
 Brightness contrast colorschemes:
 Ключевые слова: D24C15
 Константы типа "Число": B68900
@@ -12,7 +12,7 @@ Brightness contrast colorschemes:
 Прочее: 899A33  
 Фон: FFFBF0
 
-// Темная цветовая схема (под Visual Studio Code)
+## Темная цветовая схема (под Visual Studio Code)
 Low contrast colorschemes:
 Ключевые слова: D24C15
 Константы типа "Число": B68900
@@ -25,7 +25,7 @@ Low contrast colorschemes:
 Прочее: 899A33  
 Фон: 002B36
 
-// 
+## Стандартные цветовые 
 Default colorschemes:
 Ключевые слова: FF0000
 Константы типа "Число": 000000
