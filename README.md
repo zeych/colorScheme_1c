@@ -27,6 +27,8 @@ Low contrast colorschemes:
 Прочее: 899A33   
 Фон: 002B36  
 
+![Темная цветовая схема (под Visual Studio Code)](https://infostart.ru/upload/iblock/214/LowContrastColorSchemes.png)
+
 ## Стандартные цветовые 
 
 Default colorschemes:  
