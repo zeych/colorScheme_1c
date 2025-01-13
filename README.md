@@ -12,7 +12,7 @@ Brightness contrast colorschemes:
 Прочее: 899A33  
 Фон: FFFBF0  
 
-![Светлая тема][(https://infostart.ru/upload/iblock/1b9/BrightnessContrastColorSchemes.png)]
+![Светлая тема](https://infostart.ru/upload/iblock/1b9/BrightnessContrastColorSchemes.png)
 
 ## Темная цветовая схема (под Visual Studio Code)
 Low contrast colorschemes:  
